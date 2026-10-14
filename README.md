@@ -105,14 +105,14 @@ Soy **Estudiante de Ingeniería Informática** y desarrollador apasionado por cr
   <summary><strong>Ver proyectos destacados</strong></summary>
   <br/>
 
-  ### 🤖 1. Analizador de CV con IA — CV-Parser & Skills Matcher (Proyecto IEEE)
+  ### 🤖 1. [Analizador de CV con IA — CV-Parser & Skills Matcher (Proyecto IEEE)](https://github.com/JoseV2204/Proyecto_IEEE)
   > Herramienta inteligente de procesamiento de lenguaje natural (NLP) y LLMs para extracción y análisis automático de habilidades, experiencia y educación en currículos PDF.
   - **Stack:** Python, FastAPI, DeepSeek-R1 (vía Ollama), spaCy, SQLite, Uvicorn, aceleración por GPU NVIDIA (CUDA).
   - **Características:** Procesamiento local seguro, ranking de candidatos por perfil, endpoints REST y soporte para aceleración de hardware.
 
   ---
 
-  ### 🕸️ 2. Analizador de Datos & Grafos de Conocimiento
+  ### 🕸️ 2. [Analizador de Datos & Grafos de Conocimiento](https://github.com/JoseV2204/Analizador_de_datos)
   > Sistema avanzado de análisis de deudas e interacciones multi-agente utilizando grafos de conocimiento.
   - **Stack:** Python, Flask, Neo4j, Graphiti Framework, React, Chart.js, Cytoscape.js, pytest, Docker.
   - **Características:** Algoritmo temporal de coincidencia promesa-pago, métricas de rendimiento por agente, visualización interactiva de grafos y suite con 30+ pruebas automatizadas.
